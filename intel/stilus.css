@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('./images/bg.jpg');
+    opacity: 0.95;
+}
+
+#navbar-image {
+    background-color: royalblue;
+    width: 100px;
+}
+
+.blokk p,
+.col-sm-4 p {
+    text-align: justify;
+}
+
+.tortenet {
+    background-color: rgb(40, 76, 147);
+    color: #fff;
+}
+
+#fel-link {
+    font-weight: 500;
+    bottom: 1em;
+    display: inline-block;
+    padding: 5px;
+    position: fixed;
+    right: 1em;
+    text-decoration: none;
+}
+
+th,
+td {
+    padding: 0.5em;
+    border-bottom: 1px solid white;
+}
+
+#copy {
+    color: white;
+}

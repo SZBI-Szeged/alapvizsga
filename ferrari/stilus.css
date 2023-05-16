@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('./images/bg.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    opacity: 0.9;
+}
+
+.nav-item img {
+    width: 2em;
+}
+
+.focim {
+    color: rgb(235, 235, 235);
+}
+
+.tort {
+    background-color: rgb(234, 16, 45);
+    border-radius: 5px;
+    color: white;
+    font-size: 1em;
+    padding: 1em;
+    text-align: justify;
+}
+
+.blokk p {
+    text-align: justify;
+}
+
+th,
+td {
+    border-bottom: 1px solid white;
+    padding: 1em;
+}
+
+#kepek {
+    color: white;
+}
+
+#fel {
+    position: fixed;
+    color: white;
+    bottom: 2em;
+    right: 4em;
+}
