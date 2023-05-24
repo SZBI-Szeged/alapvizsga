@@ -12,9 +12,6 @@ def feltolt():
 emelkedesek = feltolt()
 sullyedesek = feltolt()
 
-print(emelkedesek)
-print(sullyedesek)
-
 def legmagasabbPont(elsoLista, masodikLista, kezdoMagassag):
 	global index
 	magassag = kezdoMagassag
